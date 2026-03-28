@@ -15,5 +15,6 @@ The program performs basic arthmetic operations such as :
 
 **Purpose of this project :**
           This project is created as part of my java learning practice to understand how conditional statements works in real programs.
-      **Conclusion :**  
+    
+      **Conclusion :**
             This project helped me understsnd user input handling and decision-making statements in java.It strengthened my programming basics and improved my cofidence in writing simple java apllications.
